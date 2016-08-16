@@ -1,2 +1,2 @@
 # blogforward
-Git
+Github pages test in my blog.
